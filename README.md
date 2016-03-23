@@ -1,7 +1,5 @@
-openshift-jee-sample
+OpenShift 3 Java EE Insult Application
 ====================
 
-A sample app to be deployed on openshift environments
-
-Note: to build this repository with maven you must specify "-Popenshift", eg "mvn clean package -Popenshift"
+This repository contains a sample application for the book *Getting Started with Java on OpenShift*
 
